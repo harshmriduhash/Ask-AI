@@ -12,4 +12,4 @@ This is a simple MERN application that I'm making. Just a basic version yet
 
 * Is secured with modern standards
 
-* 
+* More features will be added
