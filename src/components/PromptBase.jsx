@@ -2,7 +2,7 @@ function PromptBase() {
     return (
       <div className="max-w-3xl mx-auto p-4 bg-gray-800 rounded-lg shadow-lg flex flex-col">
         <div className="flex-grow bg-slate-900 rounded-lg p-4 mb-4 overflow-y-auto">
-          Here will be prompts
+          prompts
         </div>
         <div className="bg-black rounded-md p-2">
           <input
