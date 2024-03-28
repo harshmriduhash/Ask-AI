@@ -56,7 +56,6 @@ const DataStream = () => {
     const multiModalFetch = async ({imagePrompt}) => {
         return (
             <>
-
             </>
         )
     }
