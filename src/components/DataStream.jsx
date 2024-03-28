@@ -79,7 +79,7 @@ const DataStream = () => {
                         setPromptData(e.target.value)
                     }} className="bg-slate-00 h-12 grow pl-2 outline-none"/>
                     <span><button type="button" onClick={() => fetchData(promptData)}
-                                  className="border bg-slate-500 px-1">Ask ❓❓</button></span>
+                                  className="border bg-slate-500 px-1">Ask ❓</button></span>
                     <span><UploadFile onFileChange={handleFileChange} promptData={promptData}/></span>
                 </div>
 
