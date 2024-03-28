@@ -72,7 +72,6 @@ const DataStream = () => {
                         <div key={index}>{data}</div>
                     ))}</div>
 
-
                 <div
                     className="fixed bottom-1 left-1/2 m-8 flex min-h-12 w-1/4 -translate-x-1/2 items-center justify-between overflow-hidden rounded-lg bg-slate-300 px-0">
                     <input type="text" placeholder="Enter your query" onChange={(e) => {
