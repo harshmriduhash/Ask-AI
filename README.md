@@ -1,6 +1,6 @@
 # Ask Ai
 
-This is a simple MERN application that I'm making for my college project.
+This is a simple MERN application that I'm making. Just a basic version yet
 
 ## Features
 
