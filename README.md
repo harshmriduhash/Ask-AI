@@ -13,4 +13,3 @@ This is a simple MERN application that I'm making. Just a basic version yet
 * Is secured with modern standards
 
 * Soon will be deployed live on VPS 
-
